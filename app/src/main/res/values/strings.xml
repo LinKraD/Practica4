@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Practica4</string>
+    <string name="ic_add">Añadir</string>
+    <string name="ordena">Ordenar</string>
+    <string name="acerca_de" tools:ignore="TypographyEllipsis">Acerca de...</string>
+    <string name="anyadir">Añadir elemento</string>
+    <string name="ordenar">Ordenamos los elementos</string>
+    <string name="atras">Atras</string>
+    <string name="provincia">Provincia</string>
+    <string name="poblacion">Población</string>
+    <string name="comentarios">Comentarios</string>
+    <string name="nuevaPoblacion">Nueva Población</string>
+    <string name="mensajeEditar">Editando: </string>
+</resources>

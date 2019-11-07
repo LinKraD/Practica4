@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_anyade"
+        android:title="@string/ic_add"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_add"
+        tools:ignore="AlwaysShowAction" />
+    <item android:id="@+id/action_ordenar"
+        android:title="@string/ordena"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_sort_alphabetically"/>
+    <item android:id="@+id/action_acercade"
+        android:title="@string/acerca_de"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        />
+
+</menu>
